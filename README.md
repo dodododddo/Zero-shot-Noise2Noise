@@ -1,5 +1,5 @@
 # Zero-shot-Noise2Noise
-根据CVPR2023论文Zero-shot Noise2Noise，复现了一个零样本、无假设的图像去噪模型。[原论文](https://arxiv.org/abs/2303.1125)
+根据CVPR2023论文Zero-shot Noise2Noise，复现了一个零样本、无假设的图像去噪模型。[原论文](https://arxiv.org/abs/2303.11253)
 
 ## 使用流程
 TODO
